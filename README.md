@@ -1,6 +1,4 @@
-- 👋 Olá meu nome é Emanuel Alves Silva;
-- 👀 Estou cursando Analise e Desenvolvimento de Sistemas (ADS);
-- 🌱 Pretendo fazer muito sucesso na área.
+- 👋 Olá meu nome é Emanuel
 - *Perfil somente para estudos*
 
 <!---
